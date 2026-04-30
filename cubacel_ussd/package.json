@@ -1,0 +1,6 @@
+{
+  "name": "cubacel_ussd",
+  "description": "Aplicación para acceder a códigos USSD de Cubacel",
+  "version": "1.0.0+1",
+  "homepage": "https://cubaapp.com"
+}
