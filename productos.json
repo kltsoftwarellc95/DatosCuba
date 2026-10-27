@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "updated": "2026-01-15",
+  "currency": "CUP",
+  "categories": [
+    { "id": "bebidas", "name": "Bebidas", "icon": "cup" },
+    { "id": "comida", "name": "Comida", "icon": "food" },
+    { "id": "snacks", "name": "Snacks", "icon": "cookie" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Café cubano 250g",
+      "price": 350,
+      "details": "Café tostado y molido, tueste medio. Paquete de 250 gramos.",
+      "icon": "coffee",
+      "category": "bebidas",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Refresco de cola 1.5L",
+      "price": 280,
+      "details": "Botella de 1.5 litros. Bien frío.",
+      "icon": "soda",
+      "category": "bebidas",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Pan de molde grande",
+      "price": 220,
+      "details": "Pan blanco suave, 500g. Ideal para sándwiches.",
+      "icon": "bread",
+      "category": "comida",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Arroz grano largo 1kg",
+      "price": 400,
+      "details": "Arroz de grano largo, bolsa de 1kg.",
+      "icon": "rice",
+      "category": "comida",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Galletas de chocolate",
+      "price": 150,
+      "details": "Paquete de 12 galletas con chispas de chocolate.",
+      "icon": "cookie",
+      "category": "snacks",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Papas fritas 100g",
+      "price": 180,
+      "details": "Papas fritas crujientes con sal.",
+      "icon": "chips",
+      "category": "snacks",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Agua mineral 5L",
+      "price": 300,
+      "details": "Garrafón de 5 litros de agua purificada.",
+      "icon": "water",
+      "category": "bebidas",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Huevos (cartón x12)",
+      "price": 600,
+      "details": "Cartón de 12 huevos frescos.",
+      "icon": "egg",
+      "category": "comida",
+      "available": true
+    }
+  ]
+}
